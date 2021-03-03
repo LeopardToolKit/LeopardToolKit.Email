@@ -12,6 +12,8 @@
     <Product>LeopardToolKit</Product>
     <Company>LeopardToolKit</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+    <Description>A useful library to let you send email easily.</Description>
   </PropertyGroup>
 
   <ItemGroup>
