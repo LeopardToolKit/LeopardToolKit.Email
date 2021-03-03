@@ -2,7 +2,7 @@
 A useful library to let you send email easily.
 
 ## Build
-[![LeopardToolKit Cache Abstraction Package Publish](https://github.com/LeopardToolKit/LeopardToolKit.Cache/actions/workflows/Abstraction.yml/badge.svg)](https://github.com/LeopardToolKit/LeopardToolKit.Cache/actions/workflows/Abstraction.yml)
+[![LeopardToolKit Email](https://github.com/LeopardToolKit/LeopardToolKit.Email/actions/workflows/Email%20Sender.yml/badge.svg)](https://github.com/LeopardToolKit/LeopardToolKit.Email/actions/workflows/Email%20Sender.yml)
 
 ## Packages
 
