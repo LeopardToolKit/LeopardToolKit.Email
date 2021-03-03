@@ -25,7 +25,7 @@ jobs:
       uses: rohith/publish-nuget@v2.2.1
       with:
         PROJECT_FILE_PATH: LeopardToolKit.Email/LeopardToolKit.Email.csproj
-        TAG_COMMIT: false
+        TAG_COMMIT: true
         VERSION_FILE_PATH: LeopardToolKit.Email/LeopardToolKit.Email.csproj
         VERSION_REGEX: <Version>(.*)<\/Version>
         NUGET_KEY: ${{ secrets.NugetKey }} 
