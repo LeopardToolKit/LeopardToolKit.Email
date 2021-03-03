@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>MailKit,email,emailsender</PackageTags>
+    <RepositoryUrl>https://github.com/LeopardToolKit/LeopardToolKit.Email</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/LeopardToolKit/LeopardToolKit.Email</PackageProjectUrl>
+    <RepositoryType>Git</RepositoryType>
+    <Authors>Gary Zhu</Authors>
+    <Product>LeopardToolKit</Product>
+    <Company>LeopardToolKit</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+    <Description>A useful library to let you send email easily.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="2.10.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="5.0.0" />
+  </ItemGroup>
+
+</Project>
